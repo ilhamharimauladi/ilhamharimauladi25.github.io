@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(127, 208, 255);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li :hover {
+    background-color: rgba(0, 0, 0, 0.212);
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
